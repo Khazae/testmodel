@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dino
+* source:	https://sketchfab.com/3d-models/dino-4d4a25392cf04cc5854072108d6d6c17
+* author:	nzo (https://sketchfab.com/nzo3d)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dino" (https://sketchfab.com/3d-models/dino-4d4a25392cf04cc5854072108d6d6c17) by nzo (https://sketchfab.com/nzo3d) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
